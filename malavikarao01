@@ -1,0 +1,3 @@
+ranks <- 1:3
+names(ranks) <- c("first", "second", "third") #assigning names to a vector's elements b
+view(ranks)
